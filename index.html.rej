@@ -1,9 +1,0 @@
-diff a/index.html b/index.html	(rejected hunks)
-@@ -6,5 +6,6 @@
-         <li>버전이란?</li>
-         <li>remote storage</li>
-         <li>what is push</li>
-+        <li>what is pull</li>
-     </ul>
- </div></html>
-\ No newline at end of file
